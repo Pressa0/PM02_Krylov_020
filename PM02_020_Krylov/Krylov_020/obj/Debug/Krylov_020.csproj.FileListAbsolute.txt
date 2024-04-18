@@ -1,0 +1,15 @@
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.csproj.AssemblyReference.cache
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\App.g.cs
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020_MarkupCompile.cache
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\bin\Debug\Krylov_020.exe.config
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\bin\Debug\Krylov_020.exe
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\bin\Debug\Krylov_020.pdb
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\MainWindow.g.cs
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020_MarkupCompile.lref
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\MainWindow.baml
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.g.resources
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.Properties.Resources.resources
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.csproj.GenerateResource.cache
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.csproj.CoreCompileInputs.cache
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.exe
+C:\Users\208528\source\repos\Krylov_020\Krylov_020\obj\Debug\Krylov_020.pdb
